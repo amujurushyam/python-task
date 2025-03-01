@@ -179,7 +179,7 @@
 # # If it’s only divisible by 3, print "Fizz". If it’s only 
 # # divisible by 5, print "Buzz". Otherwise, print the number itself.
 
-# # num=int(input("enter a number :"))
+# # num=int(input("enter a number :"))3.2
 # # if num % 3 == 0 and num % 5 == 0:
 # #     print("FizzBuzz")
 # # elif num % 3 == 0:
@@ -362,15 +362,15 @@
 
 # compare first digit and last digit in a number  (print equal - if there are  equal )
 
-ef compare_first_last_digit(num):
-    str1 = str(num)
-    if str1[0] == str1[-1]:
-        print("Equal")
-    else:
-        print("Not equal")
+# ef compare_first_last_digit(num):
+#     str1 = str(num)
+#     if str1[0] == str1[-1]:
+#         print("Equal")
+#     else:
+#         print("Not equal")
 
-num = int(input("Enter a number: "))
-compare_first_last_digit(num)  
+# num = int(input("Enter a number: "))
+# compare_first_last_digit(num)  
 
 
 # reverse of negative numbers 
